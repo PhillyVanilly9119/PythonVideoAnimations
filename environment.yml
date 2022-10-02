@@ -1,0 +1,9 @@
+name: PythonAnimatedVideos
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pip
+  - python=3.8
+  - pip:
+    - manin
